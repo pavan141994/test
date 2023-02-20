@@ -1,2 +1,6 @@
 test1
+<<<<<<< HEAD
 test first
+=======
+test second
+>>>>>>> second
